@@ -6,5 +6,4 @@ public final class Item {
         public Item(int keyValue) { 
                 key = keyValue;
         }
-        // further components and methods
 }
